@@ -60,7 +60,7 @@ python train.py --blind --enhancer URIE --lr 1e-3
 
 Training DynTTA (urie_weight="pretrained_enhancers/CUB/Blind_URIE_latest.pth")
 ```
-python train.py --blind --enhancer DynTTA --urie_weight pretrained_enhancers/CUB/Blind_URIE_latest.pth
+python train.py --blind --enhancer DynTTA --urie_weight ckp/CUB/Blind_URIE_latest.pth
 ```
 
 Result
