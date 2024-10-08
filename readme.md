@@ -21,6 +21,8 @@ You can download the original ILSVRC2012 dataset (ImageNet) from [here](http://i
 
 You can download the original Caltech-UCSD Birds-200-2011 dataset from [here](https://www.vision.caltech.edu/datasets/cub_200_2011/), and corrupted version of CUB dataset from [here](https://postechackr-my.sharepoint.com/:u:/g/personal/postekian_postech_ac_kr/EayI2FO8LT1PgFipwuUmLjsB3SEw585Nw9HcxUMO438LbA?e=j990QH).
 
+## Pretrained models
+Pretrained classification and image enhancement models can be downloaded [here](https://drive.google.com/drive/folders/1BIjLZ8mRJa56Bjc_ppzgfup93g6_EvZA?usp=drive_link).
 
 ## Training on the CUB dataset
 ### Non-blind setting
