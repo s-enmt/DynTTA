@@ -1,5 +1,5 @@
 # Dynamic Test-Time Augmentation via Differentiable Functions
-This is a pytorch implementation of the following paper [[IEEE Access]](https://TBD) [[arXiv]](https://arxiv.org/abs/2212.04681):  
+This is a pytorch implementation of the following paper [[IEEE Access]](https://ieeexplore.ieee.org/document/10713305) [[arXiv]](https://arxiv.org/abs/2212.04681):  
 ![dyntta_arch](./image/dyntta_arch.png)
 ```
 @article{enomoto2024dyntta,
