@@ -2,13 +2,16 @@
 This is a pytorch implementation of the following paper [[IEEE Access]](https://ieeexplore.ieee.org/document/10713305) [[arXiv]](https://arxiv.org/abs/2212.04681):  
 ![dyntta_arch](./image/dyntta_arch.png)
 ```
-@article{enomoto2024dyntta,
-  title={Dynamic Test-Time Augmentation via Differentiable Functions},
-  author={Enomoto, Shohei and Busto, Monikka Roslianna and Eda, Takeharu},
-  journal={IEEE Access},
+@ARTICLE{10713305,
+  author={Enomoto, Shohei and Roslianna Busto, Monikka and Eda, Takeharu},
+  journal={IEEE Access}, 
+  title={Dynamic Test-Time Augmentation via Differentiable Functions}, 
   year={2024},
-  publisher={IEEE}
-}
+  volume={12},
+  number={},
+  pages={149593-149605},
+  keywords={Image recognition;Data augmentation;Robustness;Accuracy;Image transformation;Image enhancement;Training;Optimization;Distortion;Data models;Visualization;Distribution-shift;image enhancement;robustness;test-time augmentation;visual recognition},
+  doi={10.1109/ACCESS.2024.3477533}}
 ```
 Please read license.txt before reading or using the files.  
 
