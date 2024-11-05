@@ -18,7 +18,7 @@ Please read license.txt before reading or using the files.
 ## Datasets
 ### ILSVRC2012 Dataset (ImageNet)
 
-You can download the original ILSVRC2012 dataset (ImageNet) from [here](http://image-net.org/challenges/LSVRC/2012/), and corrupted version of ILSVRC2012 dataset (ImageNet-C) from[here](https://zenodo.org/records/2235448)
+You can download the original ILSVRC2012 dataset (ImageNet) from [here](http://image-net.org/challenges/LSVRC/2012/), and corrupted version of ILSVRC2012 dataset (ImageNet-C) from [here](https://zenodo.org/records/2235448)
 
 ### CUB dataset
 
